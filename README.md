@@ -1,83 +1,63 @@
-<h1 align="center">Hi there, I'm Alexandru Popa 👋</h1>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=alexpop1305&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182000116%3Fv%3D4" alt="alexpop1305 hero visual" />
+</p>
 
-<h3 align="center">A passionate CS student & aspiring developer from Romania 🇷🇴</h3>
+<p align="center"><b>Alexandru Popa</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
+
+<p align="center"><a href="https://github.com/alexpop1305">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <a href="https://alexpop1305.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_3D_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/alexpop1305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@alexpop1305.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/projects?username=alexpop1305&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182000116%3Fv%3D4" alt="alexpop1305 projects visual" />
 </p>
 
----
+- [alexpop1305.github.io](https://github.com/alexpop1305/alexpop1305.github.io) · ★ 0
 
-### 👨‍💻 About Me
+</details>
 
-- 🔭 I’m currently building a **crazy 3D WebGL portfolio** and mastering **C**.
-- 🧠 I love solving algorithmic problems, managing memory, and building things from scratch.
-- ☁️ Currently exploring **Cloud Infrastructure (Azure)** and **AI Agents**.
-- 💬 Ask me about **C pointers, File I/O, Preprocessor Macros, and WebGL animations**.
-- ⚡ Fun fact: I believe beauty is at 60fps and code should be as clean as possible.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- C Language -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <!-- HTML/CSS/JS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <!-- Cloud & Tools -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexpop1305&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=00f0ff&text_color=ffffff&icon_color=ff003c" alt="alexpop1305 stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpop1305&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=00f0ff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://www.gitskins.com/api/section/stack?username=alexpop1305&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182000116%3Fv%3D4" alt="alexpop1305 stack visual" />
 </p>
 
----
+</details>
 
-### 🚀 Featured Projects
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">3D WebGL Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/alexpop1305/alexpop1305.github.io">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-      <p align="center">A fully custom, interactive 3D portfolio built with Three.js, GSAP, and custom GLSL shaders. Features a particle galaxy, magnetic cursor, and kinetic typography.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">File I/O & Algorithms (C)</h3>
-      <p align="center">
-        <a href="https://github.com/alexpop1305">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=flat-square&logo=github" />
-        </a>
-      </p>
-      <p align="center">A collection of C projects focusing on memory management, file streams, sequential searches, and custom preprocessor macros designed to survive complex expressions.</p>
-    </td>
-  </tr>
-</table>
+<b>1</b> public repositories, <b>0</b> stars, <b>9</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.
 
 <p align="center">
-  <i>Let's build something amazing together.</i>
+  <img src="https://www.gitskins.com/api/section/stats?username=alexpop1305&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182000116%3Fv%3D4" alt="alexpop1305 stats visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=alexpop1305&theme=neon" alt="alexpop1305 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=alexpop1305&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182000116%3Fv%3D4" alt="alexpop1305 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Alexandru Popa · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
