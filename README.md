@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Text Animatie (Reparat) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=70&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Building+things+in+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Building+things+in+3D&repeat=false" alt="Typing SVG" />
 
   <p><i>Passionate about low-level programming, algorithmic problem solving, and pushing the limits of the web.</i></p>
 
