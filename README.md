@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Text Animatie (Latime 1000, Inaltime 80 ca sa nu se mai taie) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Building+things+in+3D&repeat=false" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=150&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Always+learning,+always+coding&repeat=false" alt="Typing SVG" />
 
   <p><i>Passionate about low-level programming, algorithmic problem solving, and pushing the limits of the web.</i></p>
 
@@ -18,10 +18,11 @@
 
 > *"Beauty is at 60fps, and code should be as clean as possible."*
 
-- 🔭 I’m currently engineering a **crazy 3D WebGL portfolio** and mastering **C**.
-- 🧠 I love solving algorithmic problems, managing memory, and building things from scratch.
-- ☁️ Currently exploring **Cloud Infrastructure (Azure)** and **AI Agents**.
-- 💬 Ask me about **C pointers, File I/O, Preprocessor Macros, and WebGL animations**.
+- 🔭 I’m currently **learning C** and experimenting with **3D WebGL portfolios**.
+- 🧠 I love solving algorithmic problems and understanding how things work under the hood.
+- ☁️ Currently exploring **Cloud Infrastructure (Azure)** and **AI concepts**.
+- 💬 Ask me about **C pointers, File I/O, or how I built my 3D site**.
+- 🎓 I'm at the beginning of my CS journey, but I'm learning something new every day.
 
 ---
 
