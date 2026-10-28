@@ -1,11 +1,11 @@
 <div align="center">
   
-  <!-- Banner Text Animatie (Font Syne, Marit, Fara taieturi) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Building+things+in+3D&repeat=false" alt="Typing SVG" />
+  <!-- Banner Text Animatie (Latime 1000, Inaltime 80 ca sa nu se mai taie) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=120&lines=Hi,+I'm+Alexandru+Popa;CS+Student+%26+Aspiring+Developer;Building+things+in+3D&repeat=false" alt="Typing SVG" />
 
   <p><i>Passionate about low-level programming, algorithmic problem solving, and pushing the limits of the web.</i></p>
 
-  <!-- Badge-uri unificate (LIPITE!) -->
+  <!-- Badge-uri unificate (Lipite, fara spatii) -->
   <a href="https://alexpop1305.github.io" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" /></a><a href="https://linkedin.com/in/alexpop1305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a><a href="mailto:contact@alexpop1305.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF003C" alt="Email" /></a>
 
 </div>
@@ -47,19 +47,19 @@
 
 <div align="center">
   
-  <!-- Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alexpop1305&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=FF003C" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexpop1305&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF003C&currStreakNum=ffffff&currStreakLabel=ffffff" height="160" alt="GitHub Streak" />
+  <!-- Row 1: Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alexpop1305&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&icon_color=FF003C" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexpop1305&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF003C&currStreakNum=ffffff&currStreakLabel=ffffff" height="165" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Categorized Profile Summary (Inlocuieste Activity Graph) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexpop1305&theme=radical" width="100%" alt="Profile Summary" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexpop1305&theme=radical" width="400" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexpop1305&theme=radical" width="400" alt="Repos Per Language" />
+  <!-- Row 2: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpop1305&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" height="165" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Row 3: Activity Graph (Reparat cu backend stabil) -->
+  <img src="https://ghchart.rshah.org/00F0FF/alexpop1305" alt="GitHub Contribution Chart" width="100%" />
 
 </div>
 
