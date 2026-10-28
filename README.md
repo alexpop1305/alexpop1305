@@ -5,8 +5,6 @@
 
   <p><i>Passionate about low-level programming, algorithmic problem solving, and pushing the limits of the web.</i></p>
 
-  <!-- Badge-uri unificate -->
-    <!-- Badge-uri unificate (Fara spatii intre ele!) -->
   <a href="https://alexpop1305.github.io" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F0FF" alt="Portfolio" /></a><a href="https://linkedin.com/in/alexpop1305" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a><a href="mailto:contact@alexpop1305.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF003C" alt="Email" /></a>
 
 </div>
